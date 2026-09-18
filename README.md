@@ -40,5 +40,4 @@ recsys_guarantees/         corrector library
   data.py, sasrec.py             data loading and the SASRec ranker
 scripts/                   data prep, training, end-to-end orchestration
 experiments/               exp0 .. exp8, each producing one figure
-tests/                     unit tests
 ```
