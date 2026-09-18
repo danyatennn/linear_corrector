@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+Movies_and_TV.csv.gz
+data_cache/
+figures/
+*.pt
+.DS_Store
